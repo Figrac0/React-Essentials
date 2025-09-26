@@ -24,22 +24,23 @@ It covers the essential building blocks you need to start working with the libra
 
 ---
 
+## Purpose
+
+The project is designed as an educational example.
+Its main goal is to provide a clear, practical demonstration of how React's core concepts work
+and how they can be applied in real-world applications.
+
+---
+
 ## How to Run  
 
 ### 1. Install dependencies  
 ```bash
 npm install
-### 2. Start the development server
-```bash
+2. Start the development server
 npm start
 
-### 3. Open in browser
-```bash
+3. Open in browser
 http://localhost:3000
 
----
-##Purpose
 
-The project is designed as an educational example.<br/>
-Its main goal is to provide a clear, practical demonstration of how React's core concepts work<br/>
-and how they can be applied in real-world applications.<br/>
