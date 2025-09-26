@@ -37,10 +37,7 @@ and how they can be applied in real-world applications.
 ### 1. Install dependencies  
 ```bash
 npm install
-2. Start the development server
 npm start
-
-3. Open in browser
 http://localhost:3000
 
 
