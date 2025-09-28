@@ -1,0 +1,5 @@
+- Added `Section` component (reusable wrapper for sections).  
+- Updated `Tabs` with `ButtonsContainer` prop (default `"menu"`).  
+- Refactored `Examples` to use `Section` and `Tabs`.  
+- Updated `CoreConcepts` to render items via `.map()`.  
+- Updated `TabButton` to forward props (`...props`).  
